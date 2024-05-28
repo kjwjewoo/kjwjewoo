@@ -1,5 +1,5 @@
-## Hi there I'm a coding slave, nice to meet you.👋
-   #여러분들을 환영합니다. 우리 모두 코딩노예가 되길 기도하며 앞으로 전진합시다..
+## 안녕하세요 나는 코딩노예입니다. 코린이분들 도망가세요.👋
+   #여러분들을 환영합니다. 우리 모두 코딩노예가 되길 기도하며 앞으로 전진합시다.
 <!--
 **kjwjewoo/kjwjewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
