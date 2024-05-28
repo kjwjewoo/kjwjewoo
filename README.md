@@ -1,5 +1,5 @@
 ## 안녕하세요 나는 코딩노예입니다. 코린이분들 도망가세요.👋
-#여러분들을 환영합니다. 우리 모두 코딩노예가 되길 기도하며 앞으로 전진합시다.
+##여러분들을 환영합니다. 우리 모두 코딩노예가 되길 기도하며 앞으로 전진합시다.
 <!--
 **kjwjewoo/kjwjewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 [![Kj](https://img.shields.io/badge/Knex.js-D26B38?style=flat-square&logo=Knex.js&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![MM](https://img.shields.io/badge/MediaMarkt-DF0000?style=flat-square&logo=MediaMarkt&logoColor=black)](github.com/Joowon0220/TODO-List)
 
-#여러분들은 함정에 빠졌습니다 코딩의늪에 빠져서 허우적대다가 결국엔 개발자라는 귀신이 되어 구천을 떠돌게 될겁니다.
+##여러분들은 함정에 빠졌습니다 코딩의늪에 빠져서 허우적대다가 결국엔 개발자라는 귀신이 되어 구천을 떠돌게 될겁니다.
 
 
