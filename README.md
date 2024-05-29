@@ -1,4 +1,4 @@
-# 𝓱𝓮𝓵𝓵𝓸 🅺🅸🅼 🅹🅴🆆🅾🅾'🆂 🅲🅾🅳🅸🅽🅶 🅳🅸🅰🆁🆈👋
+# 𝓚𝓲𝓶 𝓙𝓮𝔀𝓸𝓸'𝓼 𝓬𝓸𝓭𝓲𝓷𝓰 𝓭𝓲𝓪𝓻𝔂👋
 <!--
 **kjwjewoo/kjwjewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=300&section=header&text=코딩%20일기장&fontSize=70&)
+
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![py](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=black)](github.com/Joowon0220/TODO-List)
