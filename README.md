@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Kj](https://img.shields.io/badge/Knex.js-D26B38?style=flat-square&logo=Knex.js&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![MM](https://img.shields.io/badge/MediaMarkt-DF0000?style=flat-square&logo=MediaMarkt&logoColor=black)](github.com/Joowon0220/TODO-List)
 
+아직 부족한 부분이 많은 코린이입니다. 코딩 선배님들께서 많은것들을 알려주시면 좋겠습니다.
 
 
 
