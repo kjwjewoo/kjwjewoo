@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=코딩의%20노예&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=300&section=header&text=코딩%20일기장&fontSize=70&)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![py](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=black)](github.com/Joowon0220/TODO-List)
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![GH](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![Kj](https://img.shields.io/badge/Knex.js-D26B38?style=flat-square&logo=Knex.js&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![MM](https://img.shields.io/badge/MediaMarkt-DF0000?style=flat-square&logo=MediaMarkt&logoColor=black)](github.com/Joowon0220/TODO-List)
+
 
 
 
