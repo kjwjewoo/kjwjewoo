@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=300&section=header&text=코딩%20일기장&fontSize=70&)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=300&section=header&text=coding%20diary&fontSize=70&)
 
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
