@@ -1,6 +1,13 @@
 # 𝓚𝓲𝓶 𝓙𝓮𝔀𝓸𝓸'𝓼 𝓬𝓸𝓭𝓲𝓷𝓰 𝓭𝓲𝓪𝓻𝔂👋
+
 <!--
 **kjwjewoo/kjwjewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1>
+  <span style="color:#ff7f50;">𝓚𝓲𝓶 𝓙𝓮𝔀𝓸𝓸'𝓼 𝓬𝓸𝓭𝓲𝓷𝓰 𝓭𝓲𝓪𝓻𝔂</span> 👋
+</h1>
+
+
 
 Here are some ideas to get you started:
 
