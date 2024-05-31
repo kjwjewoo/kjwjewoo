@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![py](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![Jp](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![FN](https://img.shields.io/badge/FreeNAS-343434?style=flat-square&logo=FreeNAS&logoColor=black)](github.com/Joowon0220/TODO-List)
-[![GH](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![GH](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=bUCK)](github.com/Joowon0220/TODO-List)
 [![Kj](https://img.shields.io/badge/Knex.js-D26B38?style=flat-square&logo=Knex.js&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![MM](https://img.shields.io/badge/MediaMarkt-DF0000?style=flat-square&logo=MediaMarkt&logoColor=black)](github.com/Joowon0220/TODO-List)
 
